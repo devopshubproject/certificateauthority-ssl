@@ -1,0 +1,7 @@
+reference:
+https://help.one.com/hc/en-us/articles/360000297458-Why-is-SSL-HTTPS-not-working-on-my-site-#step-6
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-a-certificate-authority-ca-on-ubuntu-20-04
+https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-certification-authority
+https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
+https://openvpn.net/community-resources/setting-up-your-own-certificate-authority-ca/
+http://virtuallyhyper.com/2013/04/setup-your-own-certificate-authority-ca-on-linux-and-use-it-in-a-windows-environment/

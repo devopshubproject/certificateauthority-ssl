@@ -79,6 +79,7 @@ vi vars
 
 Add the values like below edit each highlighted value to reflect your own organization info.
 
+```
 set_var EASYRSA_REQ_COUNTRY    "NL"
 set_var EASYRSA_REQ_PROVINCE   "Flevoland"
 set_var EASYRSA_REQ_CITY       "Almere"
@@ -87,6 +88,7 @@ set_var EASYRSA_REQ_EMAIL      "admin@devopshub.com"
 set_var EASYRSA_REQ_OU         "Community"
 set_var EASYRSA_ALGO           "ec"
 set_var EASYRSA_DIGEST         "sha512"
+```
 
 Once done save and exit.
 
